@@ -1,4 +1,5 @@
 # Hachi: Em Busca de Um Novo Lar
+![Hachi](Leonardo_Phoenix_Nome_Hachi_o_Co_SbioAparncia_Cachorro_viralat_3.jpg)
 
 ## 📒 Descrição
 Criação de uma história em quadrinhos utilizando IA para texto e imagens.
@@ -9,7 +10,7 @@ ele descobre segredos de longevidade natural e tranquilidade. Com a ajuda de seu
 um laboratório para explorar novas tecnologias, criando um lar onde ciência e paz coexistem.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
+IA Generativa ChatGPT para roteirização; <br>
 IA Generativa Leonardo AI para criar a arte visual da história em quadrinhos;
 
 ## 🧐 Processo de Criação
@@ -87,9 +88,10 @@ Painel Final
 Descrição Visual: Hachi está deitado sobre uma colina, olhando para o céu estrelado de Xeno. Ele tem uma expressão de paz e realização. Ao lado dele, Chip exibe uma imagem holográfica das estrelas.
 Diálogo (pensamento de Hachi): “Afinal, a verdadeira inteligência está em saber viver em harmonia…”
 
-Fim.
+Fim.<br>
+![Hachi comics](comics.webp)
 
 
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Utilizar ferramentas de Inteligência Artificial para criar conteúdos de texto e imagens torna o processo mais rápido, 
+reduz o medo da folha em branco e permite testar novas ideias de formas mais práticas
